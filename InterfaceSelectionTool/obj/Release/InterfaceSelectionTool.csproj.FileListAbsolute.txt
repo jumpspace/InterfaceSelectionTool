@@ -1,0 +1,11 @@
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\bin\Release\InterfaceSelectionTool.exe.config
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\bin\Release\InterfaceSelectionTool.exe
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\bin\Release\InterfaceSelectionTool.pdb
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.InsetDirDialog.resources
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.FrmInset.resources
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.Properties.Resources.resources
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.exe
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.pdb
+C:\Users\Patrick\source\repos\InterfaceSelectionTool\InterfaceSelectionTool\obj\Release\InterfaceSelectionTool.csprojAssemblyReference.cache
