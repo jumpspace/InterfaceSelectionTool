@@ -11,3 +11,12 @@ This tool is written in C# using Visual Studio 2017 Community
 Edition.
 
 -- Patrick Wong, Customer Success Engineer
+
+UPDATE
+------
+
+*2020-02-13*
+I am no longer working at CentralSquare. This project and its 
+source code is officially the property of CentralSquare 
+Technologies. For now, I will leave this code on Github, 
+available for all to download and view.
